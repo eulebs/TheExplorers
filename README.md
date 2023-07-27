@@ -1,3 +1,4 @@
+![Logo The Explorers](https://github.com/eulebs/TheExplorers/blob/main/imagens/PNG/logo.png?raw=true)
 # Site Acadêmico de Monumentos Históricos
 
 Bem-vindo ao repositório do site acadêmico de Monumentos Históricos! Este projeto tem o objetivo de fornecer informações detalhadas e curiosidades sobre monumentos históricos ao redor do mundo, com ênfase em seu valor cultural, arquitetônico e histórico. O site foi desenvolvido por um grupo de estudantes do curso "Criação de Página para Web e Marketing Digital" e é dedicado inteiramente ao compartilhamento de conhecimento sobre nosso patrimônio cultural.
